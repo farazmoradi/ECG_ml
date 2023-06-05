@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/c116b37ca6fc4e0589bbdd108e96906f/artifacts
+end_time: 1685883931439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c116b37ca6fc4e0589bbdd108e96906f
+run_name: polite-turtle-918
+run_uuid: c116b37ca6fc4e0589bbdd108e96906f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685883888267
+status: 3
+tags: []
+user_id: farazmoradi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/d2eff774d030404298966ebd0152c40b/artifacts
+end_time: 1685909068178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2eff774d030404298966ebd0152c40b
+run_name: agreeable-carp-757
+run_uuid: d2eff774d030404298966ebd0152c40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685908931563
+status: 3
+tags: []
+user_id: farazmoradi

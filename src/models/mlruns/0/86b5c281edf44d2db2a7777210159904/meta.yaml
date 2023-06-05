@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/86b5c281edf44d2db2a7777210159904/artifacts
+end_time: 1685926974752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86b5c281edf44d2db2a7777210159904
+run_name: merciful-lark-255
+run_uuid: 86b5c281edf44d2db2a7777210159904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685926961416
+status: 4
+tags: []
+user_id: farazmoradi

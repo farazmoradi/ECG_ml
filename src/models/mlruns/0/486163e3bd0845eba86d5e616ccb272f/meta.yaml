@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/486163e3bd0845eba86d5e616ccb272f/artifacts
+end_time: 1685913409754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 486163e3bd0845eba86d5e616ccb272f
+run_name: flawless-shad-260
+run_uuid: 486163e3bd0845eba86d5e616ccb272f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685913283771
+status: 3
+tags: []
+user_id: farazmoradi

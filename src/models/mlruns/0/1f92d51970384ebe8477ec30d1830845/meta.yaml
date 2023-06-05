@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/1f92d51970384ebe8477ec30d1830845/artifacts
+end_time: 1685913412431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f92d51970384ebe8477ec30d1830845
+run_name: sneaky-sloth-655
+run_uuid: 1f92d51970384ebe8477ec30d1830845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685913409759
+status: 4
+tags: []
+user_id: farazmoradi

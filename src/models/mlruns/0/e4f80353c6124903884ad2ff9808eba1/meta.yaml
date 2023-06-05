@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/e4f80353c6124903884ad2ff9808eba1/artifacts
+end_time: 1685926504228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4f80353c6124903884ad2ff9808eba1
+run_name: burly-perch-383
+run_uuid: e4f80353c6124903884ad2ff9808eba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685926434936
+status: 4
+tags: []
+user_id: farazmoradi

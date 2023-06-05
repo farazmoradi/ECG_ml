@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/19359d5f3f754451a97e9dca7254f3ef/artifacts
+end_time: 1685927913982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19359d5f3f754451a97e9dca7254f3ef
+run_name: colorful-crab-195
+run_uuid: 19359d5f3f754451a97e9dca7254f3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685927837357
+status: 4
+tags: []
+user_id: farazmoradi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/90ef18d152924ea984dbb78b3f268627/artifacts
+end_time: 1685918545524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90ef18d152924ea984dbb78b3f268627
+run_name: resilient-roo-964
+run_uuid: 90ef18d152924ea984dbb78b3f268627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685918489246
+status: 3
+tags: []
+user_id: farazmoradi

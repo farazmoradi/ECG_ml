@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/9194a2aa69e24ed8b19ac9eb46da8862/artifacts
+end_time: 1685911804179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9194a2aa69e24ed8b19ac9eb46da8862
+run_name: learned-ram-174
+run_uuid: 9194a2aa69e24ed8b19ac9eb46da8862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685911556416
+status: 3
+tags: []
+user_id: farazmoradi

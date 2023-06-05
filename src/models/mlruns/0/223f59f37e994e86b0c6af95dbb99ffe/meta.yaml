@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/223f59f37e994e86b0c6af95dbb99ffe/artifacts
+end_time: 1685918362655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 223f59f37e994e86b0c6af95dbb99ffe
+run_name: wise-penguin-897
+run_uuid: 223f59f37e994e86b0c6af95dbb99ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685918314860
+status: 3
+tags: []
+user_id: farazmoradi

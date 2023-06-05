@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/f868ab39ba1249818375455abb3a1977/artifacts
+end_time: 1685918047259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f868ab39ba1249818375455abb3a1977
+run_name: shivering-fish-553
+run_uuid: f868ab39ba1249818375455abb3a1977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685918011509
+status: 3
+tags: []
+user_id: farazmoradi

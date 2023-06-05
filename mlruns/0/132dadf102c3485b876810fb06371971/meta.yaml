@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/132dadf102c3485b876810fb06371971/artifacts
+end_time: 1685933832580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 132dadf102c3485b876810fb06371971
+run_name: treasured-snake-848
+run_uuid: 132dadf102c3485b876810fb06371971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685933774601
+status: 3
+tags: []
+user_id: farazmoradi

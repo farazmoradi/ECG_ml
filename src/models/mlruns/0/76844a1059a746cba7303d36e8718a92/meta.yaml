@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/76844a1059a746cba7303d36e8718a92/artifacts
+end_time: 1685932951899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76844a1059a746cba7303d36e8718a92
+run_name: righteous-whale-849
+run_uuid: 76844a1059a746cba7303d36e8718a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685932933241
+status: 3
+tags: []
+user_id: farazmoradi

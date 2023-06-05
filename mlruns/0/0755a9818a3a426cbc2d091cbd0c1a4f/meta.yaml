@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/0755a9818a3a426cbc2d091cbd0c1a4f/artifacts
+end_time: 1685933172625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0755a9818a3a426cbc2d091cbd0c1a4f
+run_name: luminous-dolphin-497
+run_uuid: 0755a9818a3a426cbc2d091cbd0c1a4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685933111045
+status: 3
+tags: []
+user_id: farazmoradi

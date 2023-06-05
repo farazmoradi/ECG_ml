@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/2d89923017f145f986ccbaeb7fbe9cc1/artifacts
+end_time: 1685917606846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d89923017f145f986ccbaeb7fbe9cc1
+run_name: spiffy-snail-384
+run_uuid: 2d89923017f145f986ccbaeb7fbe9cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685917509353
+status: 3
+tags: []
+user_id: farazmoradi

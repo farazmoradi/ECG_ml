@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/94f02302186d481c840cf80243dc75c8/artifacts
+end_time: 1685884286245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f02302186d481c840cf80243dc75c8
+run_name: unequaled-bear-895
+run_uuid: 94f02302186d481c840cf80243dc75c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685884241289
+status: 3
+tags: []
+user_id: farazmoradi

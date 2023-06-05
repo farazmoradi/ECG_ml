@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/4bbf069282664572b8eafb643bc15e50/artifacts
+end_time: 1685918489242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bbf069282664572b8eafb643bc15e50
+run_name: funny-eel-691
+run_uuid: 4bbf069282664572b8eafb643bc15e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685918362660
+status: 3
+tags: []
+user_id: farazmoradi

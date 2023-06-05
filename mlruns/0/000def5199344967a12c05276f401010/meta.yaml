@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/000def5199344967a12c05276f401010/artifacts
+end_time: 1685933427124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 000def5199344967a12c05276f401010
+run_name: useful-tern-93
+run_uuid: 000def5199344967a12c05276f401010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685933324427
+status: 3
+tags: []
+user_id: farazmoradi

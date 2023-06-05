@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/372970b3e501446a8ca0f7fd2d226cdd/artifacts
+end_time: 1685933074283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 372970b3e501446a8ca0f7fd2d226cdd
+run_name: rebellious-snake-352
+run_uuid: 372970b3e501446a8ca0f7fd2d226cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685933055768
+status: 3
+tags: []
+user_id: farazmoradi

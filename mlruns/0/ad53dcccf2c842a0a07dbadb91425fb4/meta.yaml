@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/ad53dcccf2c842a0a07dbadb91425fb4/artifacts
+end_time: 1685935490153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad53dcccf2c842a0a07dbadb91425fb4
+run_name: polite-panda-422
+run_uuid: ad53dcccf2c842a0a07dbadb91425fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685935413953
+status: 3
+tags: []
+user_id: farazmoradi

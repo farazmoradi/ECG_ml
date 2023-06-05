@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/f840852450c240a18f299529d74e25da/artifacts
+end_time: 1685909473817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f840852450c240a18f299529d74e25da
+run_name: invincible-hog-891
+run_uuid: f840852450c240a18f299529d74e25da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685909298446
+status: 3
+tags: []
+user_id: farazmoradi

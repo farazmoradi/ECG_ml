@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/9fdb3c8162f640bbb0b8a8c02a0d8079/artifacts
+end_time: 1685884197754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fdb3c8162f640bbb0b8a8c02a0d8079
+run_name: gifted-calf-555
+run_uuid: 9fdb3c8162f640bbb0b8a8c02a0d8079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685884154689
+status: 3
+tags: []
+user_id: farazmoradi

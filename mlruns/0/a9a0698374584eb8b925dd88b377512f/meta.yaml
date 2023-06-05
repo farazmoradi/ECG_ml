@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/a9a0698374584eb8b925dd88b377512f/artifacts
+end_time: 1685931677612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a0698374584eb8b925dd88b377512f
+run_name: skillful-lamb-885
+run_uuid: a9a0698374584eb8b925dd88b377512f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685931677603
+status: 4
+tags: []
+user_id: farazmoradi

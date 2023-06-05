@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/cb2ab30273974c4ea6c0950009d08265/artifacts
+end_time: 1685912527459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb2ab30273974c4ea6c0950009d08265
+run_name: bemused-hen-918
+run_uuid: cb2ab30273974c4ea6c0950009d08265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685912285491
+status: 3
+tags: []
+user_id: farazmoradi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/a5262df65526496ebf84efe48f66bed0/artifacts
+end_time: 1685891346254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5262df65526496ebf84efe48f66bed0
+run_name: adventurous-hawk-774
+run_uuid: a5262df65526496ebf84efe48f66bed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685891333968
+status: 4
+tags: []
+user_id: farazmoradi

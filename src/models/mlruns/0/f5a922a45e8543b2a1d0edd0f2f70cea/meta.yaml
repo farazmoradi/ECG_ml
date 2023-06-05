@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/f5a922a45e8543b2a1d0edd0f2f70cea/artifacts
+end_time: 1685891867725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a922a45e8543b2a1d0edd0f2f70cea
+run_name: judicious-pug-486
+run_uuid: f5a922a45e8543b2a1d0edd0f2f70cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685891856355
+status: 3
+tags: []
+user_id: farazmoradi

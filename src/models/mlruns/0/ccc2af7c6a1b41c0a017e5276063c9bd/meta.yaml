@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/ccc2af7c6a1b41c0a017e5276063c9bd/artifacts
+end_time: 1685892082923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccc2af7c6a1b41c0a017e5276063c9bd
+run_name: indecisive-deer-959
+run_uuid: ccc2af7c6a1b41c0a017e5276063c9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685892065743
+status: 3
+tags: []
+user_id: farazmoradi

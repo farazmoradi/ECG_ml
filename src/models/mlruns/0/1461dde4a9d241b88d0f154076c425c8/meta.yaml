@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/1461dde4a9d241b88d0f154076c425c8/artifacts
+end_time: 1685909702376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1461dde4a9d241b88d0f154076c425c8
+run_name: nosy-steed-485
+run_uuid: 1461dde4a9d241b88d0f154076c425c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685909473822
+status: 3
+tags: []
+user_id: farazmoradi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/a04dab62a3c9494eb6ac6270e6f4190e/artifacts
+end_time: 1685892113866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a04dab62a3c9494eb6ac6270e6f4190e
+run_name: bittersweet-crane-94
+run_uuid: a04dab62a3c9494eb6ac6270e6f4190e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685892097902
+status: 3
+tags: []
+user_id: farazmoradi

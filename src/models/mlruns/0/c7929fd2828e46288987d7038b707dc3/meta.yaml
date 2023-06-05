@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/c7929fd2828e46288987d7038b707dc3/artifacts
+end_time: 1685908778746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7929fd2828e46288987d7038b707dc3
+run_name: righteous-grouse-873
+run_uuid: c7929fd2828e46288987d7038b707dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685908746771
+status: 4
+tags: []
+user_id: farazmoradi

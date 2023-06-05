@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/0cc8b3f55ab943f9aa71f1e1dbfb8aab/artifacts
+end_time: 1685917509348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc8b3f55ab943f9aa71f1e1dbfb8aab
+run_name: intrigued-bat-594
+run_uuid: 0cc8b3f55ab943f9aa71f1e1dbfb8aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685917465293
+status: 3
+tags: []
+user_id: farazmoradi

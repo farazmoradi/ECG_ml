@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/0430fa71b58b48e2914f2f3fd6b0be78/artifacts
+end_time: 1685884374986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0430fa71b58b48e2914f2f3fd6b0be78
+run_name: magnificent-fowl-868
+run_uuid: 0430fa71b58b48e2914f2f3fd6b0be78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685884330902
+status: 3
+tags: []
+user_id: farazmoradi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/2f4928df7db542039e3c6a9750a32af5/artifacts
+end_time: 1685932691508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f4928df7db542039e3c6a9750a32af5
+run_name: polite-mare-288
+run_uuid: 2f4928df7db542039e3c6a9750a32af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685932688558
+status: 4
+tags: []
+user_id: farazmoradi

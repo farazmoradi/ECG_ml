@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/d015f0da584f49689a76e230c5ee8ec6/artifacts
+end_time: 1685909935878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d015f0da584f49689a76e230c5ee8ec6
+run_name: glamorous-jay-793
+run_uuid: d015f0da584f49689a76e230c5ee8ec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685909702382
+status: 3
+tags: []
+user_id: farazmoradi

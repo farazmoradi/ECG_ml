@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/abf5aa9d67fd40de9cdab1a1a5e9bfaf/artifacts
+end_time: 1685927269107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf5aa9d67fd40de9cdab1a1a5e9bfaf
+run_name: glamorous-goose-611
+run_uuid: abf5aa9d67fd40de9cdab1a1a5e9bfaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685927252417
+status: 3
+tags: []
+user_id: farazmoradi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/0b590c2a38024ff7ba5113c13c952fdb/artifacts
+end_time: 1685891757942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b590c2a38024ff7ba5113c13c952fdb
+run_name: chill-ant-423
+run_uuid: 0b590c2a38024ff7ba5113c13c952fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685891753967
+status: 4
+tags: []
+user_id: farazmoradi

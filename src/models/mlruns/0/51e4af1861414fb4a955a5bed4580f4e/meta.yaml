@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/51e4af1861414fb4a955a5bed4580f4e/artifacts
+end_time: 1685932642709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51e4af1861414fb4a955a5bed4580f4e
+run_name: masked-wolf-278
+run_uuid: 51e4af1861414fb4a955a5bed4580f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685932630080
+status: 4
+tags: []
+user_id: farazmoradi

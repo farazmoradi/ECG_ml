@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/af6b1f596deb4425b2ff622a8d62223a/artifacts
+end_time: 1685890977926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af6b1f596deb4425b2ff622a8d62223a
+run_name: nebulous-wolf-435
+run_uuid: af6b1f596deb4425b2ff622a8d62223a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685890748386
+status: 4
+tags: []
+user_id: farazmoradi

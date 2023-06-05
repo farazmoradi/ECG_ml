@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/f6b5271413ea4d108031aca2b538c6be/artifacts
+end_time: 1685931874676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6b5271413ea4d108031aca2b538c6be
+run_name: glamorous-cow-425
+run_uuid: f6b5271413ea4d108031aca2b538c6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685931856416
+status: 3
+tags: []
+user_id: farazmoradi

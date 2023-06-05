@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/63211eebd257475392d7b9ac725c5a3a/artifacts
+end_time: 1685927252414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63211eebd257475392d7b9ac725c5a3a
+run_name: useful-sow-211
+run_uuid: 63211eebd257475392d7b9ac725c5a3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685927235559
+status: 3
+tags: []
+user_id: farazmoradi

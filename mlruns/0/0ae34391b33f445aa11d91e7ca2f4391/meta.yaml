@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/mlruns/0/0ae34391b33f445aa11d91e7ca2f4391/artifacts
+end_time: 1685931630559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ae34391b33f445aa11d91e7ca2f4391
+run_name: thundering-bug-420
+run_uuid: 0ae34391b33f445aa11d91e7ca2f4391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685931630554
+status: 4
+tags: []
+user_id: farazmoradi

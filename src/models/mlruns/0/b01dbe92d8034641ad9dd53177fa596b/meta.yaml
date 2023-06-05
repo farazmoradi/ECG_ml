@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Projects/Gtihub/ECG_MLops/src/models/mlruns/0/b01dbe92d8034641ad9dd53177fa596b/artifacts
+end_time: 1685918609305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b01dbe92d8034641ad9dd53177fa596b
+run_name: flawless-mare-94
+run_uuid: b01dbe92d8034641ad9dd53177fa596b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685918545529
+status: 3
+tags: []
+user_id: farazmoradi
